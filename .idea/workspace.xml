@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8ca266c9-f272-4cb6-9bfb-eafdcab49c79" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="8ca266c9-f272-4cb6-9bfb-eafdcab49c79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+>>>>>>> run.py
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="72">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -131,7 +138,6 @@
         <option value="$PROJECT_DIR$/flaskblog/config.py" />
         <option value="$PROJECT_DIR$/flaskblog/users/utils.py" />
         <option value="$PROJECT_DIR$/flaskblog/models.py" />
-        <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/something.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/flaskblog/errors/handlers.py" />
@@ -139,6 +145,7 @@
         <option value="$PROJECT_DIR$/flaskblog/templates/errors/403.html" />
         <option value="$PROJECT_DIR$/flaskblog/templates/errors/500.html" />
         <option value="$PROJECT_DIR$/flaskblog/__init__.py" />
+        <option value="$PROJECT_DIR$/run.py" />
       </list>
     </option>
   </component>
@@ -454,24 +461,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/something.txt" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/flaskblog/errors/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+>>>>>>> run.py
     <entry file="file://$PROJECT_DIR$/flaskblog/errors/handlers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskblog/templates/errors/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -482,15 +481,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/flaskblog/templates/errors/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/flaskblog/templates/errors/403.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> run.py
     <entry file="file://$PROJECT_DIR$/flaskblog/templates/errors/500.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flaskblog/errors/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskblog/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,6 +512,13 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
