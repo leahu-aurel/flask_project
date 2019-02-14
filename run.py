@@ -1,6 +1,6 @@
 from flaskblog import create_app
 
-a = 1
+a = 2
 
 app = create_app()
 
